@@ -10,6 +10,8 @@ namespace Escola_POO_BASE.Classes
 {
     internal class Conexao
     {
+
+
         //CONEXÃO REMOTA
         #region Variáveis
 
